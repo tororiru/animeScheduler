@@ -24,7 +24,7 @@ function turnOnTV() {
   var options = {
     'method': 'post',
     'headers': {
-       'Authorization': 'Bearer Lo4hBGlWujBwAMqTnVNqjUhb10mb4hsd3C4TxG5W8ds.c8osBNnk3pv23mPH-qJ-HmIYcEviu39i9Vl8iZzl-3A'
+       'Authorization': 'Bearer  【NatureRemoのtoken】'
     }
   };
 
